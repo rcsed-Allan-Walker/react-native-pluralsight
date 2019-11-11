@@ -12,6 +12,10 @@
     "eslint-plugin-react": ">= 7.16.0",
     "react-native": ">= 0.61.4",
     "react-native-swipeout": ">= 2.3.6",
-    "redux": ">= 4.0.4"
+    "redux": ">= 4.0.4",
+    "ws": ">= 7.2.0"
+  },
+  "devDependencies": {
+    "ws": ">= 7.2.0"
   }
 }
