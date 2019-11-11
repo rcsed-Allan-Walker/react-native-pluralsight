@@ -6,12 +6,12 @@
     "start": "react-native start"
   },
   "dependencies": {
-    "babel-eslint": "4.1.6",
-    "eslint": "1.10.3",
-    "eslint-config-airbnb": "2.1.1",
-    "eslint-plugin-react": "3.12.0",
-    "react-native": "^0.61.4",
-    "react-native-swipeout": "2.0.12",
-    "redux": "3.3.1"
+    "babel-eslint": ">= 10.0.3",
+    "eslint": ">= 6.6.0",
+    "eslint-config-airbnb": ">= 18.0.1",
+    "eslint-plugin-react": ">= 7.16.0",
+    "react-native": ">= 0.61.4",
+    "react-native-swipeout": ">= 2.3.6",
+    "redux": ">= 4.0.4"
   }
 }
